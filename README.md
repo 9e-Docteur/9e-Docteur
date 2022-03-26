@@ -4,5 +4,6 @@
 - 👀 I’m interested in developpement
 - 👾 I'm learning C# and Python
 - 🤖 I'm coding almost everytime in Java
+- 💻 I'm a Minecraft Modder
 
 My dev name on package is ninedocteur
