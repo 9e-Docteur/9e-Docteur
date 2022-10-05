@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @9e-Docteur
-- 🗣 I speak French, Dutch, and English
+- 🗣 I speak French, Dutch, English and i learn German
 - 🇧🇪 I from Belgium
 - 👀 I’m interested in developpement
 - 👾 I'm learning C# and Python
