@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @9e-Docteur
 - 🗣 I speak French, Dutch, English and i learn German
-- 🇧🇪 I from Belgium
+- 🇧🇪 I'm from Belgium
 - 👀 I’m interested in developpement
 - 👾 I'm learning C# and Python
 - 🤖 I'm coding almost everytime in Java
