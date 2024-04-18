@@ -11,6 +11,6 @@
 
 * [Join the Discord of my Team DocTeam](https://discord.gg/7VA9X67xRB)
 
-<img src="https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only">
+<img src="https://raw.githubusercontent.com/9e-Docteur/github-stats/master/generated/overview.svg#gh-dark-mode-only">
 <img src="https://github-readme-stats.vercel.app/api?username=9e-Docteur&theme=dark&show_icons=true">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=9e-Docteur&theme=radical&layout=compact">
