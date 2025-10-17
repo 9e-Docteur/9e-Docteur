@@ -7,7 +7,7 @@
 - 💻 I'm a Minecraft Modder, and server owner.
 - 📚 Founder of [DocTeam](https://discord.gg/7VA9X67xRB)
 - 📂 My dev name on java package is ninedocteur
-- ✉️ Pro e-mail : lorisp.pro@capmine.tech
+- ✉️ Pro e-mail : lorisplp.pro@gmail.com
 
 * [Join the Discord of my Team DocTeam](https://discord.gg/7VA9X67xRB)
 
